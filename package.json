@@ -14,5 +14,15 @@
   },
   "devDependencies": {
     "nodemon": "^1.17.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennington24/node-express-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/kennington24/node-express-mini/issues"
+  },
+  "homepage": "https://github.com/kennington24/node-express-mini#readme"
 }
